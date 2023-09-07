@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working as IT - Industrial Electronics engineer NumEduc<br><br>🌱 I’m currently learning software engineering ALX Africa<br><br><br><br>
+Industrial Electronics engineer  who try to learn sofware engineering <br><br>🌱 Flutter - React - NodeJs <br><br><br><br>
 
 
 ## 🌐 Socials:
